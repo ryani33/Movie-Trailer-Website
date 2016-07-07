@@ -1,4 +1,4 @@
 # USEAGE
-- Use "python main.py" to run this project. 
+Use "python main.py" to run this project. 
 # REMARK
-- Add the storyline under the title.
+Add the storyline under the title.
