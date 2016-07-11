@@ -130,7 +130,7 @@ main_page_content = '''
 '''
 
 
-# A single movie entry html template
+# A single movie entry html template, add movie storyline
 movie_tile_content = '''
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="{trailer_youtube_id}" data-toggle="modal" data-target="#trailer">
     <img src="{poster_link}">
